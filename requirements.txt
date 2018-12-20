@@ -1,0 +1,7 @@
+requests
+dask
+dask[distributed]
+fire
+opencv
+# conda install -c conda-forge opencv
+pandas # required?
