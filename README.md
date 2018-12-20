@@ -8,7 +8,10 @@ For owners of [Blink XT camera](https://blinkforhome.com/), this program aims to
 - Using computer vision, detect humans in mp4 videos
     * Draw a box around the frames, and save them as JPEG files
 
-<img src="./samples/blink_day.jpg"><br/><br/>
+<img src="./samples/blink_day.jpg">
+<br/>
+Night shot in the dark with Blink infrared night vision. Foreground was completely dark:
+<br/>
 
 <img src="./samples/blink_night.jpg">
 
